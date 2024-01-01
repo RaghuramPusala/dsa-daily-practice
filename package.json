@@ -1,0 +1,23 @@
+{
+  "name": "dsa-daily-practice",
+  "version": "1.0.0",
+  "main": "generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaghuramPusala/dsa-daily-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaghuramPusala/dsa-daily-practice/issues"
+  },
+  "homepage": "https://github.com/RaghuramPusala/dsa-daily-practice#readme",
+  "description": "",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
